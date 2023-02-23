@@ -1,4 +1,4 @@
-# Binary-Search-Tree-Projesi
+# Binary Search Tree
 Binary Search Tree Oluşturma
 
 Proje 3
